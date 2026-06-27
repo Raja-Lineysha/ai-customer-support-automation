@@ -169,7 +169,7 @@ python main.py
 
 ---
 
-## 📋 Assignment Tasks Completed
+## 📋 Tasks Completed
 
 - [x] Task 1 — LangGraph workflow design
 - [x] Task 2 — State structure implementation
