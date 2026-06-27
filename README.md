@@ -141,18 +141,17 @@ python main.py
 
 ### 💳 Query 4 — Billing Agent + Human Approval
 ![Human Approval](screenshots/S4.png)
+![Human Approval](screenshots/S5.png)
 
 ---
 
 ### 💾 Query 5 — Memory Recall Response
-![Memory Recall](screenshots/S5.png)
+![Memory Recall](screenshots/S6.png)
 
 ---
 
-### 🗄️ SQLite Memory Storage — Part 1
+### 🗄️ SQLite Memory Storage
 ![SQLite Memory Part 1](screenshots/C1.png)
-
-### 🗄️ SQLite Memory Storage — Part 2
 ![SQLite Memory Part 2](screenshots/C2.png)
 
 ---
