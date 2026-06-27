@@ -90,18 +90,26 @@ The following requests require human supervisor approval before response:
 - Groq API Key (free at https://console.groq.com)
 
 ### Step 1 — Clone the repository
+```bash
 git clone https://github.com/Raja-Lineysha/ai-customer-support-automation.git
 cd ai-customer-support-automation
+```
 
 ### Step 2 — Install dependencies
+```bash
 pip install langgraph langchain langchain-community langchain-groq faiss-cpu tiktoken sentence-transformers huggingface-hub langchain-text-splitters langchain-core
+```
 
 ### Step 3 — Add your Groq API key
 Open main.py and replace:
+```python
 GROQ_API_KEY = "your_groq_api_key_here"
+```
 
 ### Step 4 — Run the system
+```bash
 python main.py
+```
 
 ---
 
